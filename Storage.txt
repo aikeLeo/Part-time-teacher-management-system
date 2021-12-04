@@ -1,0 +1,5 @@
+99999 Jack A01 completed  4354  Math  good
+99998 Mike A02 uncompleted  9903  Eng  Not
+00001 Bob B01 Complete  COMP2234  Software  Good
+00002 Leo C02 No  ENG3049  VLSI  Good
+00003 Job C01 teaching  ENG8839  DSP  Good
